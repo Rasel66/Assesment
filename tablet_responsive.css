@@ -1,0 +1,116 @@
+@media (min-width: 426px) and (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .header_text {
+    color: white;
+  }
+  .header_text a {
+    display: inline-block;
+    padding: 10px 0;
+    text-decoration: none;
+    color: white;
+  }
+
+  .slider-left {
+    margin-top: 80px;
+  }
+  .slider-left p {
+    color: white;
+    font-size: 20px;
+  }
+  .slider-right img {
+    max-width: 100%;
+  }
+  .slider-left span {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .slider-left h5 {
+    color: white;
+  }
+  .slider-right img {
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+  }
+  .slider-right1 img {
+    height: 350px;
+    width: 350px;
+  }
+  .slider-right {
+    position: relative;
+  }
+  .slider-right1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 42px;
+    left: 360px;
+  }
+
+  .brand-img img {
+    margin-top: 7rem;
+    height: 400px;
+    width: 350px;
+  }
+
+  .contact-right span {
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .contact-right p {
+    color: white;
+    font-size: 14px;
+    text-align: justify;
+  }
+  .cotact-left img {
+    height: 312px;
+    width: 100%;
+  }
+  .contact-left {
+    position: relative;
+  }
+  .contact-right {
+    position: absolute;
+    top: 114px;
+    width: 60%;
+    height: 50%;
+    left: 250px;
+  }
+
+  .footer4 a {
+    display: inline-block;
+    background: linear-gradient(35deg, #fdbe00, #1243d5);
+    margin-top: 11px;
+    padding: 5px 20px;
+    font-size: 13px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .t-text h4 {
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .logo img {
+    height: 50px;
+  }
+  .card-text p {
+    font-family: "Poppins";
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: justify;
+  }
+  .card {
+    height: 200px;
+  }
+  .slider-bottom {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+}
